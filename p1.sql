@@ -1,0 +1,1 @@
+SELECT NAME From sys.sysdatabases
